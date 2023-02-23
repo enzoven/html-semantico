@@ -1,0 +1,56 @@
+body
+{
+    background-color: #ccc5b9;
+}
+
+h1
+{
+    font-family: Verdana;
+    font-size: 28px;
+    font-weight: bold;
+    color: #fffcf2;
+    background-color: #70798c;
+    border: 3px solid #70798c;
+    padding: 15px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p
+{
+    line-height: 30px;
+    font: 16px 'Verdana';
+    text-transform: uppercase;
+    text-align: center;
+    padding: 30px;
+}
+
+h2,h3,h4,h5,h6
+{
+    font-family: Verdana;
+    margin: 5px;
+    color: #fffcf2;
+    border: 2px #f5f1ed;
+    padding: 5px;
+    background-color: #70798c;
+}
+
+a
+{
+    font-weight: bold;
+    font-size: 24px;
+    color: #70798c;
+    margin: 5px;
+}
+
+a:hover
+{
+    color: #fffcf2;
+}
+
+span
+{
+    color: #f5f1ed;
+    background-color: #70798c;
+    font-weight: bold;
+}
