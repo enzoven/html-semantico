@@ -1,0 +1,102 @@
+body {
+	background-color: #2d2d2d;
+	color: #f5f5f5;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+}
+
+header {
+	background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/abstract-smooth-blue-light-streak-wave-background-marvin-solorzano.jpg);
+	background-size: cover;
+	padding: 50px;
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0;
+}
+
+.text-gradient {
+	background: rgb(63,94,251);
+	background: linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+  }
+
+nav {
+	background-color: #1e1e1e;
+	padding: 10px;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline-block;
+	margin: 0 10px;
+}
+
+a {
+	color: #f5f5f5;
+	text-decoration: none;
+}
+
+main {
+	padding: 20px;
+}
+
+article {
+	background-color: #3c3c3c;
+	border-radius: 5px;
+	box-shadow: 2px 2px 5px #000;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+h2 {
+	color: #f5f5f5;
+	font-size: 24px;
+	margin: 0 0 10px 0;
+	text-shadow: 1px 1px #000;
+}
+
+p {
+	line-height: 1.5;
+}
+
+footer {
+	background-color: #1e1e1e;
+	color: #f5f5f5;
+	padding: 10px;
+	text-align: center;
+}
+
+.visual-elements {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  .visual-elements img {
+    max-width: 200px;
+    margin: 0 10px;
+  }
+  
+  a
+  {
+	color: #f5f5f5;
+	font-size: 20px;
+	margin: 0 0 10px 0;
+  }
+
+  a:hover
+{
+background: rgb(63,94,251);
+background: linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+-webkit-background-clip: text; 
+-webkit-text-fill-color: transparent;
+}
